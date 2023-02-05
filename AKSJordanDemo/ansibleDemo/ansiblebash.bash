@@ -1,0 +1,1 @@
+export AZURE_SUBSCRIPTION_ID="eba5c6e7-188e-488f-a40d-0f14e1edf190"
